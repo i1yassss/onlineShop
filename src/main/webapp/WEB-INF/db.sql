@@ -1,0 +1,3 @@
+INSERT INTO users (id, name, email, password, isAdmin, address, phone, country) values (1, 'Admim', 'adminmail', 'admin' , 1, 'Moon', '88005553535', 'Reich');
+INSERT INTO users (id, name, email, password, isAdmin, address, phone, country) values (2, 'vlad', 'vladmail', 'vlad' , 0, 'zelen', '89093490239', 'russia');
+INSERT INTO users (id, name, email, password, isAdmin, address, phone, country) values (3, 'il', 'qwe', 'qwe' , 0, 'qwe', '123', 'qwe');
